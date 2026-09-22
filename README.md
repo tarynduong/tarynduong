@@ -4,20 +4,16 @@
 <!--
 <h3 align="center">
   <pre>
-  I'm looking for a junior position as a Machine Learning Engineer.
+  I'm looking for a junior position as a Machine Learning / AI Engineer.
   Open to relocation if needed.
-  - 👯 I’m looking to collaborate in any projects related to **machine learning production** 
   </pre>
 </h3>
 -->
 <img align="right" alt="Coding" width="400" src="https://tinyurl.com/r5xrak7m"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarynduong&label=Profile%20views&color=f4b73f&style=flat" alt="tarynduong"/> </p>
-
-- 🌱 I'm currently interested in **real-time machine learning and NLP**
-
-- ⚡ Fun fact: **I'm an avid learner. You’ll always find my nose buried in a book or browsing online tech forums or blogs to pick up new technology or new concepts in my free time. That's how I relax after work, besides music, movies and travel.**
-
+- 🌱 I'm currently focused on **LLM Ops, Agentic AI, and Advanced NLP**
+- ⚡ Fun fact: **When the screen goes black, I unwind by traveling to new places, watching movies, or getting lost in music.**
 <h3 align="left">How to reach me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/tarynduong" target="blank"><img align="center" src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo-512x512.png"
